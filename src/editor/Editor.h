@@ -9,6 +9,7 @@
 #include "QtMarkdown_global.h"
 #include "Document.h"
 #include "CursorCoord.h"
+#include "Cursor.h"
 #include "mddef.h"
 namespace md::editor {
 class Cursor;

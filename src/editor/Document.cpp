@@ -4,7 +4,6 @@
 
 #include "Document.h"
 
-#include "Cursor.h"
 #include "debug.h"
 #include "parser/Parser.h"
 #include "parser/Text.h"

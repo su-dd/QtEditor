@@ -9,6 +9,8 @@
 #include "parser/Document.h"
 #include "render/Instruction.h"
 #include "render/Render.h"
+#include "Cursor.h"
+#include "CursorCoord.h"
 
 namespace md::editor {
 class CommandStack;
